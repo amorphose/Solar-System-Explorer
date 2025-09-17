@@ -39,7 +39,7 @@ V. [Credits & Version History](#v-credits--version-history)
    - The required font, [Astromoony](https://github.com/RobertWinslow/Astromoony-Font), must be downloaded separately.  
 
 2. **Unblock the file to allow macros**  
-   - Right-click on *Solar System Explorer.xlsm* and choose **Properties**.  
+   - Right-click on *Solar System Explorer`.xlsm`* and choose **Properties**.  
    - If you see a message at the bottom that says *“This file came from another computer and might be blocked to help protect this computer”*, check **Unblock**, then click **OK**.  
    - This ensures that Excel will not automatically disable macros.  
 
