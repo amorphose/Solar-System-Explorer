@@ -40,7 +40,7 @@ V. [Credits & Version History](#v-credits--version-history)
 
 2. **Unblock the file to allow macros**  
    - Right-click on *Solar System Explorer`.xlsm`* and choose **Properties**.  
-   - If you see a message at the bottom that says *“This file came from another computer and might be blocked to help protect this computer”*, check **Unblock**, then click **OK**.  
+   - If you see a message at the bottom that says *“This file came from another computer and might be blocked to help protect this computer”*, check **Unblock**, then click **Apply**.  
    - This ensures that Excel will not automatically disable macros.  
 
 3. **Install the Astromoony font**  
