@@ -1,7 +1,7 @@
 # Solar System Explorer
 
 *An Interactive Excel Workbook for Exploring the Solar System*  
-**Version 1.0 — September 17, 2025**
+**Version 1.0.1 — September 20, 2025**
 
 ---
 
@@ -58,9 +58,9 @@ V. [Credits & Version History](#v-credits--version-history)
    - With the new tab selected, click **New Group** to create a group inside it.  
    - In the left panel, change the dropdown from “Popular Commands” to **Macros**.  
    - Select the following macros and add them to your new group:  
-     - *MirrorSortingData*  
-     - *ResetSortingData*  
-     - *ColorizeSolarSystem*  
+     - `MirrorSortingData`  
+     - `ResetSortingData`  
+     - `ColorizeSolarSystem`  
    - (Tip: You can also click **Rename...** to add spaces and assign custom icons for easier recognition.)  
    - Finally, use the up/down arrows to position the **Sorting Tools** tab between **Cells** and **Editing** on the ribbon. This places the macros directly next to the **Custom Sort** command.  
    - Click **OK** to save. The “Sorting Tools” tab will now appear on your Excel ribbon.  
@@ -148,7 +148,9 @@ The workbook contains four main sheets:
 - **1.0 — September 17, 2025**  
   - Initial release with Solar System & Orbital Plotter sheets  
   - Macros for sorting, resetting, and coloring dataset  
-  - Includes 1,673 catalogued objects  
+  - Includes 1,673 catalogued objects
+- **1.0.1 — September 20, 2025**
+  - Orbital Plotter sheet now displays data correctly regardless of sort order
 
 ---
 
