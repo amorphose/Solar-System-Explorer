@@ -1,7 +1,7 @@
 # Solar System Explorer
 
 *An Interactive Excel Workbook for Exploring the Solar System*  
-**Version 1.0.1 — September 20, 2025**
+**Version 1.1 — September 25, 2025**
 
 ---
 
@@ -77,8 +77,8 @@ The workbook relies on VBA macros to extend Excel’s native functionality. Ther
 - **Colorize Solar System** – Reapplies domain color coding after a mirror sort.  
 
 **Background Macros** (run automatically in the Orbital Plotter):  
-- **Resize Orbital Plot** – Adjusts chart scale based on aphelion distance.  
-- **Colorize Orbital Plot** – Colors orbital path by domain.  
+- **Resize Orbital Plot** & **Resize Satellite Plot** – Adjusts chart scales based on aphelion distances.  
+- **Colorize Orbital Plot** & **Colorize Satellite Plot** – Colors orbital paths by domains.  
 - **Format Special Symbol** – Ensures dwarf planet symbols display correctly.  
 
 Together, these macros provide consistent colorization, accurate orbital plots, and flexible sorting of Solar System data.  
@@ -96,7 +96,7 @@ The workbook contains four main sheets:
 
 2. **Sorting Data**  
    - Start here to change the sort order of objects.  
-   - Use Excel’s **Custom Sort**, then return to *Solar System* to mirror and re-color.  
+   - Use Excel’s **Custom Sort**, then return to **Solar System** to mirror and re-color.  
    - Use **Reset Sorting Data** to restore default order.  
 
 3. **Color Key**  
@@ -105,7 +105,7 @@ The workbook contains four main sheets:
 4. **Orbital Plotter**  
    - Select an object to visualize its orbit.  
    - Orbits are scaled and colored automatically.  
-   - Currently supports planets, dwarf planets, and select asteroids.
+   - Currently supports planets, dwarf planets, select asteroids and natural satellites.
 
 ---
 
@@ -122,7 +122,7 @@ The workbook contains four main sheets:
 3. **Sorting caution**  
    - Always use this  workflow for custom sorts: (*Sorting Data*) **Custom Sort** → (*Solar System*) **Mirror Sorting Data** → **Colorize Solar System** (optional) → **Reset Sorting Data**.  
    - In some versions of Excel, **“My data has headers”** may need to be checked manually.  
-   - Sorting *Solar System* directly will break sheet alignment.  
+   - Sorting **Solar System** directly will break sheet alignment.  
 
 4. **Font requirement**  
    - Astromoony font must be installed for dwarf planet symbols to display correctly.  
@@ -151,6 +151,12 @@ The workbook contains four main sheets:
   - Includes 1,673 catalogued objects
 - **1.0.1 — September 20, 2025**
   - Orbital Plotter sheet now displays data correctly regardless of sort order
+
+- **1.1 — September 25, 2025**
+  - Orbital Plotter sheet now supports select natural satellites
+  - Dynamic satellite selection linked to parent body
+  - Custom orbital path coloring for major moons
+  - Includes 1,677 catalogued objects `(+4)`
 
 ---
 
