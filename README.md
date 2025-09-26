@@ -145,7 +145,7 @@ The workbook contains four main sheets:
   - [Wikipedia](https://www.wikipedia.org/)  
 - Assisted with VBA coding/troubleshooting by ChatGPT-5 (OpenAI).  
 
-
+#### Changelog (Version History)
 **[Changelog](CHANGELOG.md)**
 
 
