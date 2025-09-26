@@ -145,6 +145,10 @@ The workbook contains four main sheets:
   - [Wikipedia](https://www.wikipedia.org/)  
 - Assisted with VBA coding/troubleshooting by ChatGPT-5 (OpenAI).  
 
+
+**[Changelog](CHANGELOG.md)**
+
+
 **Version History**  
 - **1.0 — September 17, 2025**  
   - Initial release with Solar System & Orbital Plotter sheets  
