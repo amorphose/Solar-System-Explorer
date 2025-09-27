@@ -1,8 +1,7 @@
 # Solar System Explorer
 
 *An Interactive Excel Workbook for Exploring the Solar System*  
-**Project Version 1.2.0 — September 25, 2025**
-**Source Version 1.1.0 — September 25, 2025**
+**Version 1.1 — September 25, 2025**
 
 ---
 
@@ -145,10 +144,13 @@ The workbook contains four main sheets:
   - [Wikipedia](https://www.wikipedia.org/)  
 - Assisted with VBA coding/troubleshooting by ChatGPT-5 (OpenAI).  
 
-#### Changelog (Version History)
-**[Changelog](CHANGELOG.md)**
-
-
+**Version History**
+- **1.1 — September 25, 2025**
+  - Orbital Plotter sheet now supports select natural satellites
+  - Dynamic satellite selection linked to parent body
+  - Custom orbital path coloring for major moons
+  - Includes 1,677 catalogued objects `(+4)`
+- See **[Changelog](CHANGELOG.md)** for full version history
 
 ---
 
