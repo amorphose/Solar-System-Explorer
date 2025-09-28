@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Initial Changelog documentation, separation into solo file in root "CHANGELOG.md"
+- Uploaded various screenshots of the workbook for documentation and reference
 
 ## [1.1] - 2025-9-25
 
