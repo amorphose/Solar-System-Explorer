@@ -1,7 +1,7 @@
 # Solar System Explorer
 
 *An Interactive Excel Workbook for Exploring the Solar System*  
-**Version 1.2 — September 30, 2025**
+**Version 1.3 — October 8, 2025**
 
 ---
 
@@ -15,9 +15,10 @@ Inclusion standards for the workbook are as follows:
 - All known natural satellites  
 - Major NEOs, plus those visited by spacecraft  
 - Asteroids, Centaurs, and Jupiter Trojans ≥ 50 km radius  
-- All known Trojan asteroids of the other planets  
+- Select Trojan asteroids of the other planets  
 - KBOs, SDOs, and detached objects ≥ 100 km radius  
 - Select asteroids and TNOs visited by spacecraft
+- Great Comets since the year 1990, plus those visited by spacecraft `NEW`
 - All known Interstellar objects `NEW`
 
 ---
@@ -146,11 +147,13 @@ The workbook contains four main sheets:
 - Assisted with VBA coding/troubleshooting by ChatGPT-5 (OpenAI).  
 
 **Version History**
-- **1.2 — September 30, 2025**
-  - Solar System sheet now supports Interstellar objects
-  - Initial Changelog documentation seperated
-  - Uploaded various screenshots of the workbook
-  - Includes 1,680 catalogued objects `(+3)`
+- **1.3 — October 8, 2025**
+  - Solar System sheet now supports comets
+  - Added *Periapsis (q)* to the Orbital Plotter sheet
+  - Added data labels to the satellite chart
+  - Additional objects available as options on Orbital Plotter (incl. Eros, Psyche, Chariklo, & 1P/Halley)
+  - Custom orbit path coloring for the Pluto system
+  - Includes 1,700 catalogued objects `(+20)`
 - See **[Changelog](CHANGELOG.md)** for full version history
 
 ---
