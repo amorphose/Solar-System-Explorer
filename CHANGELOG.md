@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), 
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3] - 2025-10-8
+
+### Added
+- Solar System sheet now supports comets
+- Added *Periapsis (q)* to the Orbital Plotter sheet
+- Added data labels to the satellite chart
+- Additional objects available as options on Orbital Plotter (incl. Eros, Psyche, Chariklo, & 1P/Halley)
+- Custom orbit path coloring for the Pluto system
+
+### Changed
+- Includes 1,7000 catalogued objects (+20 from previous release)
+
+### Fixed
+- Corrected the spelling of 1I/Oumuamua
+
 ## [1.2] - 2025-9-30
 
 ### Added
