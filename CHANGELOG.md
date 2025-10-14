@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), 
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4] - 2025-10-14
+
+### Added
+- Added an external links column for quick access to an object's Wikipedia page
+
+### Changed
+- Includes 1,7002 catalogued objects (+2 from previous release)
+
+### Fixed
+- Corrected the spelling of asteroid (92) Undina
+- Corrected the minor planet designation of 2004 PD112
+
 ## [1.3] - 2025-10-8
 
 ### Added
