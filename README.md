@@ -1,7 +1,7 @@
 # Solar System Explorer
 
 *An Interactive Excel Workbook for Exploring the Solar System*  
-**Version 1.3 — October 8, 2025**
+**Version 1.4 — October 14, 2025**
 
 ---
 
@@ -147,13 +147,9 @@ The workbook contains four main sheets:
 - Assisted with VBA coding/troubleshooting by ChatGPT-5 (OpenAI).  
 
 **Version History**
-- **1.3 — October 8, 2025**
-  - Solar System sheet now supports comets
-  - Added *Periapsis (q)* to the Orbital Plotter sheet
-  - Added data labels to the satellite chart
-  - Additional objects available as options on Orbital Plotter (incl. Eros, Psyche, Chariklo, & 1P/Halley)
-  - Custom orbit path coloring for the Pluto system
-  - Includes 1,700 catalogued objects `(+20)`
+- **1.4 — October 14, 2025**
+  - Added an external links column for quick access to an object's Wikipedia page
+  - Includes 1,702 catalogued objects `(+2)`
 - See **[Changelog](CHANGELOG.md)** for full version history
 
 ---
