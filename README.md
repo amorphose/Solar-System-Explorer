@@ -1,3 +1,7 @@
+**⚠️ This project has been archived.**
+- Solar System Explorer is now a web-based experience at [aperturecosmology.com/solar-system](https://aperturecosmology.com/solar-system/)
+- This repository preserves the original Excel workbook that served as its foundation.
+
 # Solar System Explorer
 
 *An Interactive Excel Workbook for Exploring the Solar System*  
